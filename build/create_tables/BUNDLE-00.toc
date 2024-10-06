@@ -1,0 +1,3 @@
+([('create_tables',
+   '/Users/Hugotestas/Desktop/weding_assistant/dist/create_tables',
+   'EXECUTABLE')],)

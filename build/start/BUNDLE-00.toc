@@ -1,0 +1,3 @@
+([('start',
+   '/Users/Hugotestas/Desktop/weding_assistant/dist/start',
+   'EXECUTABLE')],)
